@@ -25,7 +25,7 @@ node test
 
 You should see the following:
 ```bash
-challenge-sharded-ordering % node test.js 
+challenge-sharded-ordering % node test
 assert.js:103
   throw new AssertionError(obj);
   ^
