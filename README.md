@@ -19,7 +19,6 @@ Install and run the tests:
 ```bash
 git clone https://github.com/bitabase/challenge-sharded-ordering.git
 cd challenge-sharded-ordering
-npm install
 node test
 ```
 
